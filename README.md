@@ -1,6 +1,8 @@
 # Spam Email Detection
 
 This project classifies email text as **Spam** or **Ham** (legitimate email) using a trained machine-learning model. It includes a Streamlit web app for checking one email at a time or processing an MBOX archive, plus a separate pipeline for training and evaluating models.
+<img width="655" height="509" alt="Screenshot 2026-11-12 at 11 34 59 AM" src="https://github.com/user-attachments/assets/c5858270-5e23-4f3e-96d3-93f21ec7a836" />
+<img width="655" height="509" alt="Screenshot 2026-11-12 at 11 34 45 AM" src="https://github.com/user-attachments/assets/2ce3d820-efd2-45ab-aab4-e18198a43877" />
 
 ## Features
 
